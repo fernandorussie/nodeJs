@@ -1,0 +1,17 @@
+{
+  "name": "aluna-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "readline-sync": "^1.4.10"
+  }
+}
