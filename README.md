@@ -1,16 +1,16 @@
 
-# PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia
+# 🖥 PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia 
 
 
 Algumas soluções podem impactar muitas pessoas, ainda mais na tecnologia.  <br/>Que tal criar uma
-ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS?
+ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS? 🎨
 
 
-## Autores
+## Autores ✏
 
 - [@fernandorussie](https://www.github.com/fernandorussie)
 
-## O QUE É PARA FAZER?
+## 📚 O QUE É PARA FAZER? 
 
 Vamos usar o Node para montar um código que vai receber uma lista de
 propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
@@ -38,14 +38,14 @@ Finalizando e exibindo a lista com todos os elementos em ordem alfabética:<br/>
 
 
 
-## Funcionalidades
+## 📌 Funcionalidades 
 
 - Adicionar itens na lista
 - Exibir a lista antes de finalizar
 - Exibir a lista em ordem alfabética
 
 
-## Instalação
+## 🖱 Instalação 
 
 Faça o clone do repositório 
 ```bash
@@ -61,16 +61,16 @@ Instale as dependências caso necessário com npm
   npm i readline-sync
 ```
     
-## Ferramentas utilizada
+## 🛠 Ferramentas utilizada 
 
-**VSCode** <br/>
-**NodeJs**  <br/>
-**Chalk** <br/>
-**ReadLine Sync** <br/>
-**GitHub**  <br/>
+✔**VSCode** <br/>
+✔**NodeJs**  <br/>
+✔**Chalk** <br/>
+✔**ReadLine Sync** <br/>
+✔**GitHub**  <br/>
 
 
-## Suporte
+## 📞 Suporte 
 
 Para suporte, mande uma mensagem para [@fernandorussie](https://www.github.com/fernandorussie) ou entre em nosso github [@fernandorussie](https://www.github.com/fernandorussie).
 
