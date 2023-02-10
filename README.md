@@ -1,5 +1,5 @@
 
-# 🖥 PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia 
+# PROJETO INDIVIDUAL Módulo 5 – Facilitando o dia a dia 
 
 
 Algumas soluções podem impactar muitas pessoas, ainda mais na tecnologia.  <br/>Que tal criar uma
