@@ -51,14 +51,18 @@ Faça o clone do repositório
 ```bash
   git clone https://github.com/fernandorussie/nodeJs.git
   cd nodeJs
+  npm install
 ```
 
-Instale as dependências caso necessário com npm
-
+Instale as dependências caso necessário
 ```bash
-  npm install
   npm i chalk
   npm i readline-sync
+```
+
+Eexecutar o projeto
+```bash
+  node index
 ```
     
 ## 🛠 Ferramentas utilizada 
